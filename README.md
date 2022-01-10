@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Mitabu
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Artem Polkovnikov
+- 👀 I’m interested in GameDev
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 Mitabu/Mitabu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
